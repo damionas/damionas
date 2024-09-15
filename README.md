@@ -5,7 +5,7 @@ I am a Ph.D. focusing on the intersection of **Data Science**, **Machine Learnin
 
 - 🔭 I’m currently working on projects related to **green building energy optimization**, **predictive maintenance**, and **IoT integrations** for **smart city infrastructure** using Machine learning, Data science and MLops architectures.
 - 🌱 I’m currently learning **Reinforcement Learning** and advancing my knowledge in **Edge AI** for sustainability solutions.
-- 👯 I’m looking to collaborate on ** Open-source data science projects ** , **AI for climate change solutions**, **MLOps for sustainable practices**, and **smart infrastructure projects**.
+- 👯 I’m looking to collaborate on **Open source data science projects**, **AI for climate change solutions**, **MLOps for sustainable practices**, and **smart infrastructure projects**.
 - 💬 Ask me about **machine learning**, **data science and analytics**, **energy simulation**, and **sustainability**.
 - 📫 How to reach me: [onatayod@gmail.com](mailto:onatayod@gmail.com) | [LinkedIn](https://www.linkedin.com/in/damilola-onatayo-933501b9/)
 
