@@ -1,27 +1,12 @@
-## Hi there 👋
 
-<!--
-**damionas/damionas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Onatayo 👋
 
-Here are some ideas to get you started:
+I am a Ph.D. focusing on the intersection of **Data Science**, **Machine Learning**, **MLOPS** and **Sustainability**. With over 7 years of experience in **energy analytics**, **Data science**, and **MLOps**, I apply advanced analytics and AI to solve complex challenges in **Business**, **Manufacturing and Infrastructure**,  **energy efficiency**, **sustainability**, and **greenhouse gas emissions**. I also integrate **MLOps** practices to ensure efficient, scalable, and reliable machine learning deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Oluwadamilola Onatayo 👋
-
-I am a Ph.D. Candidate in Construction Engineering and Management, focusing on the intersection of **Data Science**, **Machine Learning**, and **Sustainability**. With over 7 years of experience in **energy analytics**, **business intelligence**, and **MLOps**, I apply advanced analytics and AI to solve complex challenges in **energy efficiency**, **sustainability**, and **greenhouse gas emissions**. Passionate about driving decarbonization efforts and building scalable solutions, I use my expertise to optimize infrastructure and reduce environmental impact.
-
-- 🔭 I’m currently working on projects related to **green building energy optimization**, **predictive maintenance**, and **IoT integrations** for **smart city infrastructure**.
+- 🔭 I’m currently working on projects related to **green building energy optimization**, **predictive maintenance**, and **IoT integrations** for **smart city infrastructure** using Machine learning, Data science and MLops architectures.
 - 🌱 I’m currently learning **Reinforcement Learning** and advancing my knowledge in **Edge AI** for sustainability solutions.
-- 👯 I’m looking to collaborate on **AI for climate change solutions**, **MLOps for sustainable practices**, and **smart infrastructure projects**.
-- 💬 Ask me about **machine learning**, **data analytics**, **energy simulation**, and **sustainability**.
+- 👯 I’m looking to collaborate on ** Open-source data science projects ** , **AI for climate change solutions**, **MLOps for sustainable practices**, and **smart infrastructure projects**.
+- 💬 Ask me about **machine learning**, **data science and analytics**, **energy simulation**, and **sustainability**.
 - 📫 How to reach me: [onatayod@gmail.com](mailto:onatayod@gmail.com) | [LinkedIn](https://www.linkedin.com/in/damilola-onatayo-933501b9/)
 
 ## Tech Stack
@@ -37,6 +22,15 @@ I am a Ph.D. Candidate in Construction Engineering and Management, focusing on t
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+- **Cloud Computing**: AWS, Azure
+- **Machine Learning**: OpenCV, TensorFlow, PyTorch, Keras, Numpy, Pandas, SKlearn, YoloV8, AWS Sagemaker, MLflow
+- **CI/CD Pipeline**: Jenkins, Docker, Kubernetes, GitLab, AWS CodePipeline, Prometheus, Grafana, CloudWatch, Azure Databricks
+- **Database and ETL**: MongoDB, MySQL, PostgreSQL, Redis, Kafka, Apache Spark, PySpark, Databricks
+- **Data Visualization**: Tableau, Power BI, Microsoft Office
+- **Energy Simulation**: Energyplus, eQuests, BIM, Therms, Window LBNL, Optics, Solidwork, Autodesk, Bentley
+- **Workflow Orchestration**: Apache Airflow, Argo Workflows
+- **Experiment Tracking & Versioning**: MLflow, DVC, Weights & Biases
 
 ## Featured Projects
 
