@@ -1,7 +1,7 @@
 
 # Hi, I'm Onatayo 👋
 
-I am a Ph.D. focusing on the intersection of **Data Science**, **Machine Learning**, **MLOPS** and **Sustainability**. With over 7 years of experience in **energy analytics**, **Data science**, and **MLOps**, I apply advanced analytics and AI to solve complex challenges in **Business**, **Manufacturing and Infrastructure**,  **energy efficiency**, **sustainability**, and **greenhouse gas emissions**. I also integrate **MLOps** practices to ensure efficient, scalable, and reliable machine learning deployments
+I am a Ph.D candidate. focusing on the intersection of **Data Science**, **Machine Learning**, **MLOPS** and **Sustainability**. With over 7 years of experience in **energy analytics**, **Data science**, and **MLOps**, I apply advanced analytics and AI to solve complex challenges in **Business**, **Manufacturing and Infrastructure**,  **energy efficiency**, **sustainability**, and **greenhouse gas emissions**. I also integrate **MLOps** practices to ensure efficient, scalable, and reliable machine learning deployments
 
 - 🔭 I’m currently working on projects related to **green building energy optimization**, **predictive maintenance**, and **IoT integrations** for **smart city infrastructure** using Machine learning, Data science and MLops architectures.
 - 🌱 I’m currently learning **Reinforcement Learning** and advancing my knowledge in **Edge AI** for sustainability solutions.
