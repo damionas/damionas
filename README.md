@@ -28,7 +28,7 @@ I am a Ph.D candidate. focusing on the intersection of **Energy systems**, **Bui
 - **CI/CD Pipeline**: Jenkins, Docker, Kubernetes, GitLab, AWS CodePipeline, Prometheus, Grafana, CloudWatch, Azure Databricks
 - **Database and ETL**: MongoDB, MySQL, PostgreSQL, Redis, Kafka, Apache Spark, PySpark, Databricks
 - **Data Visualization**: Tableau, Power BI, Microsoft Office
-- **Energy Simulation**: Energyplus, eQuests, BIM, Therms, Window LBNL, Optics, Solidwork, Autodesk, Bentley
+- **Energy Simulation**: Energyplus, eQuests, BIM, Therms, Window LBNL, Optics, Solidwork, Autodesk, Bentley, Revit
 - **Workflow Orchestration**: Apache Airflow, Argo Workflows
 - **Experiment Tracking & Versioning**: MLflow, DVC, Weights & Biases
 
