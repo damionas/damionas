@@ -1,10 +1,10 @@
 
 # Hi, I'm Onatayo 👋
 
-I am a Ph.D candidate. focusing on the intersection of **Data Science**, **Machine Learning**, **MLOPS** and **Sustainability**. With over 7 years of experience in **energy analytics**, **Data science**, and **MLOps**, I apply advanced analytics and AI to solve complex challenges in **Business**, **Manufacturing and Infrastructure**,  **energy efficiency**, **sustainability**, and **greenhouse gas emissions**. I also integrate **MLOps** practices to ensure efficient, scalable, and reliable machine learning deployments
+I am a Ph.D candidate. focusing on the intersection of **Energy systems**, **Building Envelope**, **Data Science**, **Machine Learning**, **MLOPS** and **Sustainability**. With over 7 years of experience in **energy analytics**, **Data science**, and **MLOps**, I apply Simulations, advanced analytics and AI to solve complex challenges in **Business**, **Manufacturing and Infrastructure**,  **energy efficiency**, **sustainability**, and **greenhouse gas emissions**. I also integrate **MLOps** practices to ensure efficient, scalable, and reliable machine learning deployments
 
-- 🔭 I’m currently working on projects related to **green building energy optimization**, **predictive maintenance**, and **IoT integrations** for **smart city infrastructure** using Machine learning, Data science and MLops architectures.
-- 🌱 I’m currently learning **Reinforcement Learning** and advancing my knowledge in **Edge AI** for sustainability solutions.
+- 🔭 I’m currently working on projects related to **building envelope energy systems**, **green building energy optimization**, **predictive maintenance**, and **IoT integrations** for **smart city infrastructure** and **Codes compliance** .
+- 🌱 I’m currently learning **Reinforcement Learning** for sustainability and energy efficiency solutions.
 - 👯 I’m looking to collaborate on **Open source data science projects**, **AI for climate change solutions**, **MLOps for sustainable practices**, and **smart infrastructure projects**.
 - 💬 Ask me about **machine learning**, **data science and analytics**, **energy simulation**, and **sustainability**.
 
